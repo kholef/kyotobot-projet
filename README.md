@@ -1,3 +1,10 @@
+## 👥 Auteurs
+
+Projet réalisé en binôme par :
+
+* **Kholef Achour**
+* **Yasmine Boulil** — [GitHub](https://github.com/yasmineboulil)
+
 # KyotoBot 
 
 Assistant touristique intelligent pour la ville de Kyoto basé sur l'Intelligence Artificielle.
